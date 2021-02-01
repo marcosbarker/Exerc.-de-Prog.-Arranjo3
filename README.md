@@ -3,12 +3,13 @@
 <h2   align="center">🎓
     Graduação em Tecnologia da Informação e Comunicação💻</h2>
  <p align="center">
-    <a href="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjos">
-        <img src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/faeterj-logo.jpg" alt="faeterj-logo">
+    <a href="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo3">
+        <img src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo3/blob/main/img/faeterj-logo.jpg" alt="faeterj-logo">
     </a>
     </p>
 <h3 align="center">
     Disciplina de POO-Programação Orientada a Objetos em C++</h3>
+
 
 
 ### Exercícios
@@ -18,17 +19,19 @@
 
 
 1. Imprima a seguinte saída na saída padrão (terminal) de modo que o tamanho do arranjo seja especificado pelo usuário.
-    Índice Valor
-      0 		  0
-      1           0
-      2           0
-      3           0
-      4           0
-      5           0
-      6           0
-      7           0
-      8           0
-      9           0
+       Índice | Valor
+
+    -  0    |    0
+    -  1    |    0
+    -  2    |    0
+    -  3    |    0
+    -  4    |    0
+    -  5    |    0
+    -  6    |    0
+    -  7    |    0
+    -  8    |    0
+    -  9    |    0
+
     
 
   ![01-equipe_produto]()
