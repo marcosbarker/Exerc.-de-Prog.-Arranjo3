@@ -19,22 +19,23 @@
 
 
 1. Imprima a seguinte saída na saída padrão (terminal) de modo que o tamanho do arranjo seja especificado pelo usuário.
-       Índice | Valor
-
-    -  0    |    0
-    -  1    |    0
-    -  2    |    0
-    -  3    |    0
-    -  4    |    0
-    -  5    |    0
-    -  6    |    0
-    -  7    |    0
-    -  8    |    0
-    -  9    |    0
-
+   
+- Índice | Valor
+   
+    -  ​      0    |    0
+    -  ​      1    |    0
+    -  ​      2    |    0
+    -  ​      3    |    0
+    -  ​      4    |    0
+    -  ​      5    |    0
+    -  ​      6    |    0
+    -  ​      7    |    0
+    -  ​      8    |    0
+ -  ​      9    |    0
+   
     
 
-  ![01-equipe_produto]()
+  ![01-equipe_produto](https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo3/blob/main/img/img-1.jpg)
 
 
 
